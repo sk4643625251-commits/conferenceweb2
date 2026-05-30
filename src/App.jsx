@@ -304,7 +304,7 @@ export default function App() {
       <section id="dates" className="py-20 max-w-5xl mx-auto px-4">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold text-slate-900 mb-2">Registration & Late Fees</h2>
-          <p className="text-slate-600 text-sm">Track key milestones and exact penalty rules.</p>
+          <p className="text-slate-600 text-sm">Track key milestones and exact late fees.</p>
         </div>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
@@ -327,7 +327,7 @@ export default function App() {
           <div className="bg-orange-50/50 p-6 rounded-2xl border border-orange-200 relative overflow-hidden shadow-sm">
             <div className="absolute top-0 right-0 bg-orange-400 w-full h-1"></div>
             <h3 className="text-lg font-bold text-orange-800 mb-4 flex items-center gap-2">
-              <Info size={18} /> Penalty Rules
+              <Info size={18} /> Late Fees
             </h3>
             <ul className="space-y-4 text-sm text-slate-700">
               <li className="flex items-start gap-3">
