@@ -332,7 +332,7 @@ export default function App() {
             <ul className="space-y-4 text-sm text-slate-700">
               <li className="flex items-start gap-3">
                 <div className="w-1.5 h-1.5 rounded-full bg-orange-500 mt-1.5 shrink-0"></div>
-                <span><strong>Late Fee:</strong> Rs. 1000/- penalty applies strictly after the final registration deadline.</span>
+                <span><strong>Late Fee:</strong> Rs. 1000/- late fees applies strictly after the final registration deadline.</span>
               </li>
               <li className="flex items-start gap-3">
                 <div className="w-1.5 h-1.5 rounded-full bg-orange-500 mt-1.5 shrink-0"></div>
